@@ -21,9 +21,9 @@ I designed and built a full-stack POS system that streamlines the entire cafe wo
 - **Backend Logic:** Chose [Flask/Django/Node - *Insert what you used here*] for its lightweight routing, which allowed for quick API responses during peak cafe hours.
 
 ## 💻 Tech Stack
-- **Backend:** [Insert language/framework, e.g., Python, Flask]
+- **Backend:** [Python, Flask and Django]
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** [Insert DB, e.g., SQLite / PostgreSQL / MySQL]
+- **Database:** [SQLite / PostgreSQL / MySQL]
 
 ## 👨‍💻 My Role
 - **Full-Stack Development:** Built the database schema, backend API, and the touch-friendly frontend interface.
